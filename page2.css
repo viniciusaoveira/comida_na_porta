@@ -58,7 +58,7 @@ form label{
   align-items: center;
 }
 
-#nome, #email, #phone, #password1, #password2{
+#nome, #email, #phone, #password1, #password2, #rua, #cidade, #estado, #cep, #numero{
   background-color: #4e4b4b5f;
   border: none;
   border-radius: 7px;
